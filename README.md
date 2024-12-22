@@ -1,6 +1,6 @@
 # Web Scraping com Python - Extração de Tabelas do Wikipedia
 
-Este é um projeto simples de web scraping em Python que utiliza a biblioteca **BeautifulSoup** para extrair dados de uma tabela do Wikipedia. O objetivo é explorar técnicas de raspagem de dados e criar um **DataFrame** usando **Pandas** para estruturar as informações.
+Este é um projeto simples de web scraping em Python que utiliza a biblioteca **BeautifulSoup** para extrair dados de uma tabela do Wikipedia que lista as maiores empresas dos Estados Unidos por receita. O objetivo é explorar técnicas de raspagem de dados e criar um **DataFrame** usando **Pandas** para estruturar as informações.
 
 ## Objetivo
 
@@ -51,4 +51,4 @@ Este projeto foi inspirado no vídeo do YouTube:
 
 ## Status do Projeto
 
-🚧 Este projeto está **em andamento**.
+✅ Este projeto está **finalizado**.
